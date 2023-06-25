@@ -1,0 +1,182 @@
+@charset "utf-8";
+
+
+.container-fluid {
+  background-image: -webkit-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(254,95,12,1.00) 0%,rgba(254,97,15,1.00) 3.11%,rgba(253,107,31,1.00) 6.22%,rgba(253,109,35,1.00) 6.22%,rgba(253,118,48,1.00) 9.84%,rgba(251,149,95,1.00) 19.17%,rgba(248,240,235,1.00) 47.15%,rgba(255,87,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(254,95,12,1.00) 0%,rgba(254,97,15,1.00) 3.11%,rgba(253,107,31,1.00) 6.22%,rgba(253,109,35,1.00) 6.22%,rgba(253,118,48,1.00) 9.84%,rgba(251,149,95,1.00) 19.17%,rgba(248,240,235,1.00) 47.15%,rgba(255,87,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(254,95,12,1.00) 0%,rgba(254,97,15,1.00) 3.11%,rgba(253,107,31,1.00) 6.22%,rgba(253,109,35,1.00) 6.22%,rgba(253,118,48,1.00) 9.84%,rgba(251,149,95,1.00) 19.17%,rgba(248,240,235,1.00) 47.15%,rgba(255,87,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,87,0,1.00) 0%,rgba(254,95,12,1.00) 0%,rgba(254,97,15,1.00) 3.11%,rgba(253,107,31,1.00) 6.22%,rgba(253,109,35,1.00) 6.22%,rgba(253,118,48,1.00) 9.84%,rgba(251,149,95,1.00) 19.17%,rgba(248,240,235,1.00) 47.15%,rgba(255,87,0,1.00) 100%);
+}
+.container-fluid {
+   background-image: -webkit-linear-gradient(270deg,rgba(254,97,15,1.00) 0%,rgba(255,255,255,1.00) 44.56%,rgba(254,97,15,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(254,97,15,1.00) 0%,rgba(255,255,255,1.00) 44.56%,rgba(254,97,15,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(254,97,15,1.00) 0%,rgba(255,255,255,1.00) 44.56%,rgba(254,97,15,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(254,97,15,1.00) 0%,rgba(255,255,255,1.00) 44.56%,rgba(254,97,15,1.00) 100%);
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light 
+{
+    
+   background-image: -webkit-linear-gradient(270deg,rgba(254,95,12,1.00) 0%,rgba(253,111,37,1.00) 70.47%,rgba(253,107,31,1.00) 100%,rgba(254,97,15,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(254,95,12,1.00) 0%,rgba(253,111,37,1.00) 70.47%,rgba(253,107,31,1.00) 100%,rgba(254,97,15,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(254,95,12,1.00) 0%,rgba(253,111,37,1.00) 70.47%,rgba(253,107,31,1.00) 100%,rgba(254,97,15,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(254,95,12,1.00) 0%,rgba(253,111,37,1.00) 70.47%,rgba(253,107,31,1.00) 100%,rgba(254,97,15,1.00) 100%);
+	font-family: Cursive;
+}
+.container .box_text .text-center.text-uppercase 
+{
+	font-family: Cursive;
+	
+}
+.card.col-md-4.col-lg-12 .card-body .card-title 
+{
+	font-family: Cursive;
+	background-color: #ff7f50;
+	text-align: center;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text 
+{
+	font-family: Cursive;
+}
+.card #headingOne1 .mb-0 
+{
+	font-family: Cursive;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+	font-family: Cursive;
+	background-color: orange;
+}
+.card #collapseTwo1 .card-body {
+	font-family: Cursive;
+}
+.card #headingTwo1 .mb-0 {
+	font-family: Cursive;
+}
+.card #collapseOne1 .card-body {
+	font-family: Cursive;
+}
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(255,251,249,1.00) 48.70%,rgba(255,87,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(255,251,249,1.00) 48.70%,rgba(255,87,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(255,251,249,1.00) 48.70%,rgba(255,87,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,87,0,1.00) 0%,rgba(255,251,249,1.00) 48.70%,rgba(255,87,0,1.00) 100%);
+    background-position: 0% 0%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+.box_text{
+	
+	color: #EFF50B;
+}
+.container-fluid .container .Section1.box {
+	 background-color: hsla(0, 100%, 50%, 0.336);
+	 background-size: cover;
+	 height: 100vh;
+}
+.container .Section1.box .rounded-circle {
+	 position: fixed;
+    left: 47%;
+    top: 10%;
+}
+
+.box{
+	height: 450px;
+    padding: 170px 60px;
+}
+body {
+  font-family: Cursive;
+  display: flex;
+  background: #333;
+  justify-content: flex-end;
+  align-items: flex-end;
+  min-height: 100vh;
+}
+
+.footer {
+  position: relative;
+  background: hsla(0, 100%, 50%, 0.336);
+ min-height: 100px;
+  padding: 20px 100px;
+  display: flex;
+ justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.social-icon,
+.menu {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  flex-wrap: wrap;
+}
+
+.social-icon__item,
+.menu__item {
+  list-style: none;
+}
+
+.social-icon__link {
+  font-size: 2rem;
+  color: #fff;
+  margin: 0 10px;
+  display: inline-block;
+  transition: 0.5s;
+}
+.social-icon__link:hover {
+  transform: translateY(-10px);
+}
+
+.menu__link {
+  font-size: 1.2rem;
+  color: #fff;
+  margin: 0 10px;
+  display: inline-block;
+  transition: 0.5s;
+  text-decoration: none;
+  opacity: 0.75;
+  font-weight: 300;
+}
+
+.menu__link:hover {
+  opacity: 1;
+}
+
+.footer p {
+  color: #fff;
+  margin: 15px 0 10px 0;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+
+
+#navbarSupportedContent1 .navbar-nav.mr-auto.col-lg-11.offset-lg-0 .nav-item.active:hover 
+{
+	background: rgba(255,66,3,0.80);
+    border-radius: 15px;
+}
+.navbar-nav.mr-auto.col-lg-11.offset-lg-0 .nav-item .nav-link:hover 
+{
+	background: rgba(255,66,3,0.80);
+    border-radius: 15px;
+}
+
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(255,255,255,1.00) 49.74%,rgba(255,87,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(255,255,255,1.00) 49.74%,rgba(255,87,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,87,0,1.00) 0%,rgba(255,255,255,1.00) 49.74%,rgba(255,87,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,87,0,1.00) 0%,rgba(255,255,255,1.00) 49.74%,rgba(255,87,0,1.00) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container 
+{
+	font-family: Cursive;
+}
